@@ -1,0 +1,9 @@
+.box{
+    border:30px solid #000080;
+    width: 70%;
+}
+p {
+    background-color: #ADD8E6;
+    padding: 20px;
+    margin: 0px;
+}
